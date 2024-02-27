@@ -1,1 +1,5 @@
 We will learn commands.
+
+git init
+
+git status
