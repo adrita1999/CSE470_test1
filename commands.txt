@@ -1,27 +1,2 @@
-We will learn commands.
-
-git init
-
-git status
-
-git diff
-
-git log
-
-git init
-
-git status
-
-git diff
-
-git log
-
-git init
-
-git status
-
-git diff
-
-git log
-
+No commands.
 
